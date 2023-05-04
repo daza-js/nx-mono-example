@@ -2,13 +2,12 @@
   "name": "nx-example",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "nx": "16.0.1",
-    "@nx/workspace": "16.0.1"
+    "@nx/express": "^16.0.3",
+    "@nx/workspace": "16.0.1",
+    "nx": "16.0.1"
   }
 }
